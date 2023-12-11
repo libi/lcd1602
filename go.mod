@@ -1,4 +1,4 @@
-module github.com/LibiChai/lcd1602
+module github.com/libi/lcd1602
 
 go 1.12
 
